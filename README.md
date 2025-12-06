@@ -93,4 +93,4 @@ M. A. Alam and S. Sultana, “Newspaper reading habits of private university stu
 
 Poster
 
-For a visual representation of this study, please refer to the [Poster report](./Poster.pdf).
+For a visual representation of this study, please refer to the [Poster report](./PosterReport.pdf).
